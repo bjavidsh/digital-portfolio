@@ -1,0 +1,12 @@
+format: jb-book
+root: about_me
+
+parts:
+  - caption: Information
+    chapters:
+      - file: cv
+
+  - caption: Example of Analysis
+    chapters:
+      - file: analysis_example
+      - file: citations

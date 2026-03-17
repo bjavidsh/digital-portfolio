@@ -1,0 +1,12 @@
+version: 1
+
+project:
+  title: Digital Portfolio
+  authors:
+    - name: Alex Do
+  bibliography: references.bib
+
+site:
+  template: book-theme
+  options:
+    logo: profile-picture.png
